@@ -1,0 +1,9 @@
+.btn-group .dropdown-menu{
+    width: 20rem;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn .dropdown-menu{
+    text-align: center
+}
